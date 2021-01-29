@@ -7,7 +7,7 @@ class Main {
     System.out.println("Hello and welcome to Discord please Enter username!"); 
     userName = myUser.nextLine();   
        
-    System.out.println(" Your Username is: " + userName);
+    System.out.println("Thank you, Your Username is: " + userName);
 
     
   }
