@@ -10,7 +10,7 @@ class Main {
     System.out.println("Thank you, Your Username is: " + userName);
 
   Scanner scan = new Scanner(System.in);
-        System.out.println("Enter your 5 digit password: ");
+        System.out.println("Enter your 5 digit number password: ");
 
         
         int num = scan.nextInt();
